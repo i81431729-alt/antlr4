@@ -1,4 +1,4 @@
-# ANTLR v4
+[![ML-CI-Android-CMake](https://github.com/google-ai-edge/LiteRT-LM/actions/workflows/ml-ci-build-android-cmake.yml/badge.svg?event=check_run)](https://github.com/google-ai-edge/LiteRT-LM/actions/workflows/ml-ci-build-android-cmake.yml)# ANTLR v4
 
 > [!important]
 > This is fork of the original [ANTLR4](https://github.com/antlr/antlr4) repo which adds [Rust](https://rust-lang.org/) support to it. 
